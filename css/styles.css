@@ -1,3 +1,13 @@
-.cis260special {
-    color:#2d8470;
+.websiteformat {
+    background-color:#fffdc9
+}
+
+.heading {
+    color: #d90000
+    text-align: center
+}
+
+.paragraph {
+    font-family: sans-serif
+    color: black
 }
