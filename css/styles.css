@@ -1,5 +1,5 @@
 .websiteformat {
-    background-color:#fffdc9;
+    color: firebrick;
 }
 
 .heading {
@@ -10,4 +10,20 @@
 .paragraph {
     font-family: sans-serif;
     color: black;
+}
+body {
+    background-color: #fffdc9;
+}
+
+nav ul li a {
+    color:firebrick;
+    text-decoration: none;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+a {
+    color:darkgreen;
 }
